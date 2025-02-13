@@ -29,6 +29,4 @@ ML Engineer specializing in Generative AI and full-stack development. Proficient
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/tanishqsrivastavaa"><img src="https://github-readme-streak-stats.herokuapp.com/?user=tanishqsrivastavaa&stroke=ef4444&background=1c1917&ring=ef4444&fire=ef4444&currStreakNum=ef4444&currStreakLabel=ef4444&sideNums=ef4444&sideLabels=ef4444&dates=ef4444&hide_border=true" /></a>
-
-<a href="https://github.com/tanishqsrivastavaa" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanishqsrivastavaa&langs_count=10&title_color=ef4444&text_color=ef4444&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="http://www.github.com/tanishqsrivastavaa"><img src="https://github-readme-stats.vercel.app/api?username=tanishqsrivastavaa&show_icons=true&hide=prs,contribs&count_private=true&title_color=ef4444&text_color=ef4444&icon_color=ffffff&bg_color=1c1917&hide_border=true&show_icons=true" alt="tanishqsrivastavaa's GitHub stats" /></a>
