@@ -8,7 +8,7 @@ ML Engineer specializing in Generative AI and full-stack development. Proficient
 
 * 🌍  I'm based in Mumbai, India
 * ✉️  You can contact me at [tanishq280205@gmail.com](mailto:tanishq280205@gmail.com)
-* 🚀  I'm currently working on [Somnia](https://github.com/tanishqsrivastavaa/Somnia)
+* 🚀  I'm currently working on [Petique](https://github.com/tanishqsrivastavaa/petique-app)
 * 🧠  I'm learning Different GenAI Frameworks
 * 🤝  I'm open to collaborating on Interesting / Innovative ML Projects
 * ⚡  In my free time, I play basketball to stay active and focused on health, while also exploring creative ideas and projects, keeping things balanced.
