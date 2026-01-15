@@ -1,26 +1,46 @@
-Hi 👋 My name is Tanishq Srivastava
-===================================
+# Hi there! 👾 I'm khost
 
-Undergraduate Student
----------------------
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=DC143C&width=435&lines=Backend+Engineer;Your+potential+is+waiting;)](https://git.io/typing-svg)
 
-ML Engineer specializing in Generative AI and full-stack development. Proficient in Python for building multi-agent models, fine-tuning RAG-based LLMs, and developing scalable machine learning solutions. Skilled in front-end frameworks like React.js and Next.js for creating intuitive user interfaces. Hackathon winner (HackArcade'25 and HackSRM'25) with a passion for building innovative, AI-powered applications.
+---
 
-* 🌍  I'm based in Mumbai, India
-* ✉️  You can contact me at [tanishq280205@gmail.com](mailto:tanishq280205@gmail.com)
-* 🚀  I'm currently working on [Petique](https://github.com/tanishqsrivastavaa/petique-app)
-* 🧠  I'm learning Different GenAI Frameworks
-* 🤝  I'm open to collaborating on Interesting / Innovative ML Projects
-* ⚡  In my free time, I play basketball to stay active and focused on health, while also exploring creative ideas and projects, keeping things balanced.
+## 👨‍💻 About Me
 
-### Skills
+Welcome to my corner of the internet! I'm a passionate developer with a keen interest in building robust, scalable, and efficient software solutions. My journey in tech began with a curiosity for how things work, evolving into a drive to create impactful applications. I thrive on tackling complex challenges, learning new technologies, and contributing to the open-source community. Let's build something amazing together!
+
+## 🎯 Current Focus
+
+- 🔭 Working on: **UNaFIED (A personal assistant which has context to everything)** <!-- TODO: Add your current main project, e.g., "a real-time analytics dashboard" -->
+- 🌱 Learning: **Backend Development + Agentic AI** <!-- TODO: Add what you're currently learning, e.g., "Rust and WebAssembly" or "advanced Kubernetes patterns" -->
+- 👯 Looking to collaborate on: **Open Source projects focused on agentic AI** <!-- TODO: Specify your preferred collaboration area, e.g., "web performance" or "developer tooling" -->
+- 💬 Ask me about: **writing and maintaining endpoints** <!-- TODO: Add your areas of expertise, e.g., "backend architecture, cloud deployments, or React performance" -->
+- ⚡ Fun fact: **I am tall.** <!-- TODO: Add a fun fact, e.g., "I once built a small robot that sorts LEGO bricks!" -->
+
+---
 
 
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="Fast API" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a><a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" /></a><a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="36" height="36" alt="Supabase" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a><a href="https://www.adobe.com/uk/products/aftereffects.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aftereffects-colored.svg" width="36" height="36" alt="After Effects" /></a><a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="36" height="36" alt="Premiere Pro" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a><a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" width="36" height="36" alt="PyTorch" /></a><a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow" /></a><a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/raspberrypi-colored.svg" width="36" height="36" alt="Raspberry Pi" /></a>
+### 📈 Contribution Activity
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tanishqsrivastavaa&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"/>
+
+### 🔥 Streak Statistics
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanishqsrivastavaa&theme=tokyonight&hide_border=true"/>
 </p>
 
+### 📅 Contribution Calendar
+<img src="https://ghchart.rshah.org/409ba5/tanishqsrivastavaa" alt="Contribution Calendar" width="100%"/>
 
-### Socials
+### ⚡ Recent Activity
+<!--START_SECTION:activity-->
+1. 🎉 Merged PR [#4](https://github.com/tanishqsrivastavaa/tanishqsrivastavaa/pull/4) in [tanishqsrivastavaa/tanishqsrivastavaa](https://github.com/tanishqsrivastavaa/tanishqsrivastavaa)
+2. 🗣️ Commented on [#3](https://github.com/tanishqsrivastavaa/tanishqsrivastavaa/pull/3) in [tanishqsrivastavaa/tanishqsrivastavaa](https://github.com/tanishqsrivastavaa/tanishqsrivastavaa)
+3. 💪 Made [7 commits](https://github.com/tanishqsrivastavaa/tanishqsrivastavaa/compare/3468df9f2e32...71e479a04a3e) in [tanishqsrivastavaa/tanishqsrivastavaa](https://github.com/tanishqsrivastavaa/tanishqsrivastavaa)
+4. 💪 Made [7 commits](https://github.com/tanishqsrivastavaa/tanishqsrivastavaa/compare/fb0ed8133534...f8c85025dfbe) in [tanishqsrivastavaa/tanishqsrivastavaa](https://github.com/tanishqsrivastavaa/tanishqsrivastavaa)
+5. 💪 Made [4 commits](https://github.com/tanishqsrivastavaa/tanishqsrivastavaa/compare/cf80b2a75878...767b0704d9c7) in [tanishqsrivastavaa/tanishqsrivastavaa](https://github.com/tanishqsrivastavaa/tanishqsrivastavaa)
+<!--END_SECTION:activity-->
+<!-- TODO: Set up GitHub Actions to auto-update this section: https://github.com/marketplace/actions/github-activity-readme -->
 
-<p align="left"> <a href="https://www.github.com/tanishqsrivastavaa" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/tanishq.srivastavaa" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/tanishq-srivastavaa" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+---
+
+</div>
+
