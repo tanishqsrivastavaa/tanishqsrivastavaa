@@ -9,12 +9,12 @@
 Welcome to my corner of the internet! I'm a passionate developer with a keen interest in building robust, scalable, and efficient software solutions. My journey in tech began with a curiosity for how things work, evolving into a drive to create impactful applications. I thrive on tackling complex challenges, learning new technologies, and contributing to the open-source community. Let's build something amazing together!
 
 ## 🎯 Current Focus
-
+.
 - 🔭 Working on: **UNaFIED (A personal assistant which has context to everything)** <!-- TODO: Add your current main project, e.g., "a real-time analytics dashboard" -->
-- 🌱 Learning: **Backend Development + Agentic AI** <!-- TODO: Add what you're currently learning, e.g., "Rust and WebAssembly" or "advanced Kubernetes patterns" -->
-- 👯 Looking to collaborate on: **Open Source projects focused on agentic AI** <!-- TODO: Specify your preferred collaboration area, e.g., "web performance" or "developer tooling" -->
-- 💬 Ask me about: **writing and maintaining endpoints** <!-- TODO: Add your areas of expertise, e.g., "backend architecture, cloud deployments, or React performance" -->
-- ⚡ Fun fact: **I am tall.** <!-- TODO: Add a fun fact, e.g., "I once built a small robot that sorts LEGO bricks!" -->
+- 🌱 Learning: **Backend Development + Agentic AI + System Design** <!-- TODO: Add what you're currently learning, e.g., "Rust and WebAssembly" or "advanced Kubernetes patterns" -->
+- 👯 Looking to collaborate on: **Projects which solves problems and which scales up and up** <!-- TODO: Specify your preferred collaboration area, e.g., "web performance" or "developer tooling" -->
+- 💬 Ask me about: **Agentic AI and System Desgin :)** <!-- TODO: Add your areas of expertise, e.g., "backend architecture, cloud deployments, or React performance" -->
+- ⚡ Fun fact: **I am tall and I ask a ton of questions** <!-- TODO: Add a fun fact, e.g., "I once built a small robot that sorts LEGO bricks!" -->
 
 ---
 
